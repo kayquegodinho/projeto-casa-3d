@@ -303,3 +303,9 @@ Penteadeira compacta integrada ao closet: 0,68 m de largura por 0,47 m de profun
 ## Revisão 20261105-3
 Dois setores adicionais de prateleiras junto à entrada do closet, com pontas chanfradas a 45° para facilitar a passagem. Mantidos os acabamentos, a penteadeira compacta e o vão de entrada de 1,03 m. Conferência visual de cima e carregamento sem erros no navegador.
 
+
+
+## Revisão 20261111-1 — fachada externa
+Fachada inspirada nas referências: volumes claros sobrepostos, faixa superior, detalhe vertical em pedra, desenhos geométricos no portão e canteiro com coníferas. Portões opacos preservam a privacidade; nenhum vidro foi acrescentado à fachada externa.
+
+O botão Ocultar fachada externa, na seção Mostrar, permite ver a fachada interna; clique novamente para restaurar. O controle não remove permanentemente os elementos.
