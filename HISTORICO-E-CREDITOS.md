@@ -309,3 +309,7 @@ Dois setores adicionais de prateleiras junto à entrada do closet, com pontas ch
 Fachada inspirada nas referências: volumes claros sobrepostos, faixa superior, detalhe vertical em pedra, desenhos geométricos no portão e canteiro com coníferas. Portões opacos preservam a privacidade; nenhum vidro foi acrescentado à fachada externa.
 
 O botão Ocultar fachada externa, na seção Mostrar, permite ver a fachada interna; clique novamente para restaurar. O controle não remove permanentemente os elementos.
+
+
+## Revisão 20261112-1 — coberturas e entrada de luz
+Cobertura da gourmet nivelada com a garagem, com face inferior a 4,38 m na coordenada vertical do modelo (aproximadamente 2,90 m acima do piso principal). Faixas de vidro nos vãos altos da cozinha/hall para entrada de luz natural, mantendo a cozinha com pé-direito de 3,60 m. Removidos os fechamentos elevados que conflitam com o novo nivelamento.

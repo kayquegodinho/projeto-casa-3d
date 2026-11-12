@@ -13,7 +13,7 @@ Uma unidade do modelo corresponde a um metro. O visualizador representa um estud
 Envie imagens com anotações e medidas. Alterações no modo de edição ficam apenas no navegador de quem as fez; use a opção de baixar a organização para compartilhar o arquivo JSON. Elas não alteram a versão publicada.
 
 ## Versão e créditos
-Versão publicada: 20261111-1. O histórico documenta revisões sucessivas; descrições antigas podem ter sido substituídas pelas mais recentes.
+Versão publicada: 20261112-1. O histórico documenta revisões sucessivas; descrições antigas podem ter sido substituídas pelas mais recentes.
 
 Consulte [histórico e créditos dos modelos](HISTORICO-E-CREDITOS.md) e a [licença do Three.js](THREE-LICENSE.txt).
 
